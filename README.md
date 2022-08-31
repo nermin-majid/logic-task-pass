@@ -23,7 +23,7 @@ for Number in range (1, 101):
     if (count == 0 and Number != 1):
         print(" %d" %Number, end = '  ')
         
-   #task-Q3     
+   #taskQ-3     
         import collections
 str1 = 'i am very busy today and next week'
 d = collections.defaultdict(int)
