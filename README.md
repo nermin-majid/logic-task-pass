@@ -1,6 +1,5 @@
 # logic-task-pass
 # task Q-1
-# method to remove i'th character
 test_str = "NARMINMAJID"
 print ("The original string is : " + test_str)
 
